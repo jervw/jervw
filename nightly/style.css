@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
 body {
     margin: 0%;
     padding: 0%;
@@ -9,7 +11,8 @@ body {
     align-items: center;
     background-image: url("images/01.jpg");
     color: #fff;
-    font-family: 'fira code';
+    font-family: 'Roboto Mono', monospace;
+    
 }
 
 .content {
@@ -22,6 +25,7 @@ body {
     margin-top: 2vw;
     font-size: 2vw;
     text-align: center;
+    font-family: 'JetBrains Mono;
 }
 
 #time {
