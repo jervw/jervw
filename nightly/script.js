@@ -16,14 +16,16 @@ function displayClock() {
         min = "0" + min
 
     // Greetings
-    if (hrs < 12)
-        greet.textContent = "Good morning, " + name;
-    else if (hrs < 18)
-        greet.textContent = "Good afternoon, " + name;
-    else if (hrs < 24)
-        greet.textContent = "Good evening, " + name;
+    if (hrs >= 0 && hrs < 6) // night
+        greet.innerHTML = "Good night, " + name;
+    else if (hrs >= 6 && hrs < 12) // morning
+        greet.innerHTML = "Good morning, " + name;
+    else if (hrs >= 12 && hrs < 18) // afternoon
+        greet.innerHTML = "Good afternoon, " + name;
+    else if (hrs >= 18 && hrs < 24) // evening
+        greet.innerHTML = "Good evening, " + name;
     else
-        greet.textContent = "Good night, " + name;
+        greet.innerHTML = "Hello, " + name;
 
     time.textContent = hrs + ':' + min;
 }
