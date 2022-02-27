@@ -7,16 +7,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    
-    /* Customize */
-
-    /* background-image: url("path/to/image") */
     background-image: url("images/01.jpg");
-
-    /* color: your color */
     color: #fff;
-
-    /* font-family: 'your font' */
     font-family: 'fira code';
 }
 
