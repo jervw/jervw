@@ -2,7 +2,7 @@
 
 ## 🦀 Hey there!
 
-I am an 22 year old game developer and Linux enthusiast from the Finland.
+I am an 22 year old game developer student and Linux enthusiast from Finland.
 
 ### About Me
 
