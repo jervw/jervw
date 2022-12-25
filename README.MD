@@ -9,7 +9,7 @@ I am an 23 year old game developer student and Linux enthusiast from Finland.
 - 🖥 Favorite language: Rust
 - 🎨 Favorite color scheme: Catppuccin 
 - ⌨️ Keyboard: Anne Pro II
-- 🐧 Distro: Arch Linux (linux-zen)
+- 🐧 Distro: Artix Linux (linux-zen)
 
 <img src="https://komarev.com/ghpvc/?username=jervw&color=96CDFB&style=flat" alt="GitHub page views">
 
