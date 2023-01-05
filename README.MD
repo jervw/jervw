@@ -1,4 +1,6 @@
+<!---
 <img src="https://github-readme-stats.vercel.app/api?username=jervw&theme=onedark&show_icons=true&include_all_commits=true&hide_border=true&hide=issues&custom_title=Jere's&nbsp;Stats&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&count_private=true" alt="GitHub readme stats" width=450px align=right>
+-->
 
 ## 🦀 Hey there!
 
