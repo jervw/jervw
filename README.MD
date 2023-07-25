@@ -4,13 +4,13 @@
 
 ## 🦀 Hey there!
 
-I am an 23 year old game developer student and Linux enthusiast from Finland.
+I am an 24 year old game developer student and Linux enthusiast from Finland.
 
 ### About Me
 
 - 🖥 Favorite language: Rust
-- 🎨 Favorite color scheme: Catppuccin 
-- ⌨️ Keyboard: Anne Pro II
-- 🐧 Distro: Artix Linux (linux-zen)
+- 🎨 Favorite color scheme: Nightfox 
+- ⌨️ Keyboard: Lily58
+- 🐧 Distro: NixOS
 
 <img src="https://komarev.com/ghpvc/?username=jervw&color=96CDFB&style=flat" alt="GitHub page views">
