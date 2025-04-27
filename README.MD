@@ -9,8 +9,10 @@ I am an 24 year old game developer student and Linux enthusiast from Finland.
 ### About Me
 
 - 🖥 Favorite language: Rust
-- 🎨 Favorite color scheme: Nightfox 
+- 🎨 Favorite color scheme: Decaf
 - ⌨️ Keyboard: Lily58
 - 🐧 Distro: NixOS
+
+Nowadays, I'm mostly using Codeberg instead of GitHub. You can find me [there](https://codeberg.org/jervw).
 
 <img src="https://komarev.com/ghpvc/?username=jervw&color=96CDFB&style=flat" alt="GitHub page views">
